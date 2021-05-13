@@ -17,5 +17,5 @@ Many settings, including speed, pitch, and an equalizer, are available by modify
 
 - Use of the software is subject to the GNU General Public License 3.
 - Copyright holders of the MIDI files used to generate aircraft will retain their rights.
-- You may need Visual Studio to use the software. You will need Visual Studio to change the settings.
+- You may need Visual Studio to use the software or change the settings.
 - Loud sounds play when loading an aircraft with Tone Generator parts. Always turn down the volume to a safe level before use.
