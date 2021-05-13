@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Aircraft name="mbase" url="" theme="Default" size="0.5000001,0.5,1.5" boundsMin="-0.2500001,1.733354,-0.7437501" xmlVersion="6" legacyJointIdentification="false">
+  <Assembly>
+    <Parts>
+      <Part id="-1" partType="Cockpit-1" position="2.842171E-14,1.983354,0.2562499" rotation="0,0,0" drag="0.1278033,0.1278033,0.508,0.508,0.258,0.258" materials="7,0" scale="1,1,1" partCollisionResponse="Default">
+        <Cockpit.State primaryCockpit="True" lookBackTranslation="0,0" />
+      </Part>
+      <Part id="0" partType="Mod_ToneGenerator_tonegen_a" position="0,1.983354,-0.4937501" rotation="0,0,0" drag="0.008,0.008,0.254,0.254,0.254,0.254" materials="0,0,0,0" partCollisionResponse="Default">
+        <InputController.State activationGroup="0" invert="false" min="0" max="1" input="VTOL" />
+        <ToneGenerator_ToneGenerator2.State _audiotype="Sine" _bypass_effects="false" _bypass_leffects="false" _bypass_reverb="false" _frequency="256" _stereo_pan="0" _spatialblend="0" _reverb_mix="1" _doppler="0" _spread="0" _dist_min="5" _dist_max="50" />
+      </Part>
+    </Parts>
+    <Connections>
+      <Connection partA="0" partB="-1" attachPointsA="5" attachPointsB="0" />
+    </Connections>
+    <Bodies>
+      <Body partIds="-1" position="0,0,0" rotation="0,0,0" velocity="0,0,0" angularVelocity="0,0,0" />
+      <Body partIds="0" position="0,0,0" rotation="0,0,0" velocity="0,0,0" angularVelocity="0,0,0" />
+    </Bodies>
+  </Assembly>
+  <Theme name="Custom">
+    <Material color="E9E9E9" r="0.15" m="0.5" s="0.7" />
+    <Material color="000000" r="0.3" m="0.5" s="0.83" />
+    <Material color="001F7F" r="0.3" m="0.5" s="0.83" />
+    <Material color="AA2A00" r="0.15" m="0.5" s="0.7" />
+    <Material color="3F3F3F" r="0" m="0.65" s="0.08" />
+    <Material color="5C0000" r="0" m="0.65" s="0.08" />
+    <Material color="FFFFFF" r="0" m="0.65" s="0.08" />
+    <Material color="FFF0F0" r="0" m="0.65" s="0.08" />
+    <Material color="FF0F0F" r="0" m="0.65" s="0.08" />
+    <Material color="AAAAAA" r="0" m="0.65" s="0.08" />
+    <Material color="3F3F3F" r="0.15" m="0.5" s="0.7" />
+    <Material color="ABABAB" r="0" m="0.65" s="0.08" />
+    <Material color="446677" r="0" m="0.65" s="0.08" />
+    <Material color="FF1143" r="0" m="0.65" s="0.08" />
+    <Material color="FF6A12" r="0" m="0.65" s="0.08" />
+    <Material color="000000" r="0" m="0.65" s="0.08" />
+    <Material color="FFFFFF" r="0" m="0.65" s="0.08" />
+    <Material color="1E1E1E" r="0" m="0.65" s="0.08" />
+    <Material color="D0D0D0" r="0" m="0.65" s="0.08" />
+  </Theme>
+</Aircraft>

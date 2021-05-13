@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Aircraft name="mbase" url="" theme="Default" size="1,1,2" boundsMin="-0.5,1.733354,-1.24375" xmlVersion="6" legacyJointIdentification="false">
+  <Assembly>
+    <Parts>
+      <Part id="-1" partType="Cockpit-1" position="2.842171E-14,1.983353,0.2562499" rotation="0,0,0" drag="0.1438033,0.1438033,0.5159999,0.5159999,0.2659999,0.266" materials="7,0" scale="1,1,1" partCollisionResponse="Default">
+        <Cockpit.State primaryCockpit="True" lookBackTranslation="0,0" />
+      </Part>
+      <Part id="0" partType="Mod_ToneGenerator_tonegen_a" position="0,2.483354,-0.9937501" rotation="0,0,0" drag="0.258,0.258,0.00328,0.00328,0.2539999,0.254" materials="0,0,0,0" partCollisionResponse="Default">
+        <InputController.State activationGroup="0" invert="false" min="0" max="1" input="VTOL" />
+        <ToneGenerator_ToneGenerator2.State _audiotype="Sine" _bypass_effects="false" _bypass_leffects="false" _bypass_reverb="false" _frequency="256" _stereo_pan="0" _spatialblend="0" _reverb_mix="1" _doppler="0" _spread="0" _dist_min="5" _dist_max="50" />
+      </Part>
+      <Part id="1" partType="Fuselage-Body-1" position="0,1.983353,-0.7437501" rotation="0,0,0" drag="0.278,0.278,1.004,1.004,0.5287998,0.5288" materials="0" partCollisionResponse="Default">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State version="2" frontScale="2,1" rearScale="2,1" offset="0,0,2" deadWeight="0" buoyancy="0" fuelPercentage="0" smoothFront="False" smoothBack="False" autoSizeOnConnected="false" cornerTypes="0,0,0,0,0,0,0,0" />
+      </Part>
+    </Parts>
+    <Connections>
+      <Connection partA="1" partB="-1" attachPointsA="0" attachPointsB="0" />
+      <Connection partA="0" partB="1" attachPointsA="2" attachPointsB="3" />
+    </Connections>
+    <Bodies>
+      <Body partIds="-1,1" position="0,0,0" rotation="0,0,0" velocity="0,0,0" angularVelocity="0,0,0" />
+      <Body partIds="0" position="0,0,0" rotation="0,0,0" velocity="0,0,0" angularVelocity="0,0,0" />
+    </Bodies>
+  </Assembly>
+  <Theme name="Custom">
+    <Material color="E9E9E9" r="0.15" m="0.5" s="0.7" />
+    <Material color="000000" r="0.3" m="0.5" s="0.83" />
+    <Material color="001F7F" r="0.3" m="0.5" s="0.83" />
+    <Material color="AA2A00" r="0.15" m="0.5" s="0.7" />
+    <Material color="3F3F3F" r="0" m="0.65" s="0.08" />
+    <Material color="5C0000" r="0" m="0.65" s="0.08" />
+    <Material color="FFFFFF" r="0" m="0.65" s="0.08" />
+    <Material color="FFF0F0" r="0" m="0.65" s="0.08" />
+    <Material color="FF0F0F" r="0" m="0.65" s="0.08" />
+    <Material color="AAAAAA" r="0" m="0.65" s="0.08" />
+    <Material color="3F3F3F" r="0.15" m="0.5" s="0.7" />
+    <Material color="ABABAB" r="0" m="0.65" s="0.08" />
+    <Material color="446677" r="0" m="0.65" s="0.08" />
+    <Material color="FF1143" r="0" m="0.65" s="0.08" />
+    <Material color="FF6A12" r="0" m="0.65" s="0.08" />
+    <Material color="000000" r="0" m="0.65" s="0.08" />
+    <Material color="FFFFFF" r="0" m="0.65" s="0.08" />
+    <Material color="1E1E1E" r="0" m="0.65" s="0.08" />
+    <Material color="D0D0D0" r="0" m="0.65" s="0.08" />
+  </Theme>
+</Aircraft>
