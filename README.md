@@ -10,7 +10,7 @@ Many settings, including speed, pitch, and an equalizer, are available by modify
 [ Example ] Dichromatic Lotus Butterfly ~ Ancients (composed by ZUN)
 
 - [Aircraft](https://www.simpleplanes.com/a/yd62Vc/ssg_18)
-- [Source](http://www16.big.or.jp/~zun/html/music_old.html)
+- [Source: ZUN's old works](http://www16.big.or.jp/~zun/html/music_old.html)
 
 [ Example ] Tomboyish Girl in Love (composed by ZUN)
 
