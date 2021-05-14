@@ -20,6 +20,7 @@ Many settings, including speed, pitch, and an equalizer, are available by modify
 ### Features
 
 - Heavily optimized aircraft generation
+- Supports MIDI Volume and Expression
 - Many settings to adjust MIDI files
 - MIDI information display
 
