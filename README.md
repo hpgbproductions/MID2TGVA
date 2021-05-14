@@ -17,11 +17,17 @@ Many settings, including speed, pitch, and an equalizer, are available by modify
 - [Aircraft](https://www.simpleplanes.com/a/y2cEvK/th06_05)
 - Source: Embodiment of Scarlet Devil
 
-### TIPS
+### Features
+
+- Heavily optimized aircraft generation
+- Many settings to adjust MIDI files
+- MIDI information display
+
+### Tips
 
 - Try using a MIDI file sequencer or digital audio workstation to perform simple modifications to MIDI files before exporting.
 
-### NOTES
+### Notes
 
 - Use of the software is subject to the GNU General Public License 3.
 - Copyright holders of the MIDI files used to generate aircraft will retain their rights.
