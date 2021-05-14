@@ -8,10 +8,14 @@ The script may also be useful for studying MIDI files. Almost all op-codes are d
 Many settings, including speed, pitch, and an equalizer, are available by modifying the variables in the "User Settings" section of the program file.
 
 [ Example ] Dichromatic Lotus Butterfly ~ Ancients (composed by ZUN)
-[Aircraft](https://www.simpleplanes.com/a/yd62Vc/ssg_18) | [Source](http://www16.big.or.jp/~zun/html/music_old.html)
+
+- [Aircraft](https://www.simpleplanes.com/a/yd62Vc/ssg_18)
+- [Source](http://www16.big.or.jp/~zun/html/music_old.html)
 
 [ Example ] Tomboyish Girl in Love (composed by ZUN)
-[Aircraft](https://www.simpleplanes.com/a/y2cEvK/th06_05) | Source: Embodiment of Scarlet Devil
+
+- [Aircraft](https://www.simpleplanes.com/a/y2cEvK/th06_05)
+- Source: Embodiment of Scarlet Devil
 
 ### TIPS
 
