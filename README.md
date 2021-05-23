@@ -7,7 +7,7 @@ The script may also be useful for studying MIDI files. Almost all op-codes are d
 
 Many settings, including speed, pitch, and an equalizer, are available by modifying the variables in the "User Settings" section of the program file.
 
-The output XML file is created in the desktop folder.
+The output XML file is created in the desktop folder. At the time of writing, the aircraft is compatible with all Tone Generator versions (latest: V1.3).
 
 [ Example ] Dichromatic Lotus Butterfly ~ Ancients (composed by ZUN)
 
