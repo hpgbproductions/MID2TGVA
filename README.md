@@ -41,9 +41,17 @@ The output XML file is created in the desktop folder.
 ### Copyright
 
 - Use of the software is subject to the GNU General Public License 3.
-- Copyright holders of the MIDI files used to generate aircraft will retain their rights.
+- Copyright holders of the MIDI files used to generate aircraft files will retain their rights.
 
-### SP Terms
+### SP Website Terms
 
 - Users of this software (except the developers) may not upload exported aircraft files on the SimplePlanes website in an as-is basis as a public aircraft or video.
-- Users of this software may however upload derivative works of the exported aircraft file, where the music is not the only significant feature of the work.
+- Users of this software may however upload derivative works of the exported aircraft file, where the music is not the most significant feature of the work. These include, but are not limited to:
+  - Aircraft and other machines
+  - Artwork / Graphics
+  - Funky Trees / XML Modding
+  - Videos and similar media
+
+- - -
+
+Last Updated: 2021 May 23
