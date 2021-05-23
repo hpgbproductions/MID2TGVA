@@ -23,8 +23,8 @@ The output XML file is created in the desktop folder. At the time of writing, th
 
 - Heavily optimized aircraft generation
 - Supports MIDI Volume and Expression
-- Many settings to adjust MIDI files
-- MIDI information display
+- Many settings to adjust MIDI file export
+- MIDI information debugging display
 
 ### Tips
 
