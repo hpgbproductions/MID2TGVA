@@ -45,12 +45,14 @@ The output XML file is created in the desktop folder. At the time of writing, th
 
 ### SP Website Terms
 
-- Users of this software (except the developers) may not upload exported aircraft files on the SimplePlanes website in an as-is basis as a public aircraft or video.
-- Users of this software may however upload derivative works of the exported aircraft file, where the music is not the most significant feature of the work. These include, but are not limited to:
+- Users of this software (except the developers) may not perform the following actions:
+  - Upload unchanged export contents as a public aircraft.
+- Users of this software may however upload derivative works of the exported aircraft file. These include, but are not limited to:
   - Aircraft and other machines
   - Artwork / Graphics
   - Funky Trees / XML Modding
   - Videos and similar media
+  - Other content where the generated music is not the most significant feature of the work.
 
 - - -
 
