@@ -53,7 +53,8 @@ The output XML file is created in the desktop folder. At the time of writing, th
   - Funky Trees / XML Modding
   - Videos and similar media
   - Other content where the generated music is not the most significant feature of the work.
+- The terms listed in this section may be changed without notice.
 
 - - -
 
-Last Updated: 2021 May 23
+Last Updated: 2021 May 24
