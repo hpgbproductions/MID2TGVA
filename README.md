@@ -45,8 +45,11 @@ The output XML file is created in the desktop folder. At the time of writing, th
 
 ### SP Website Terms
 
+Last Updated: 2021 May 25
+
 - Users of this software (except the developers) may not perform the following actions:
   - Upload unchanged export contents as a public aircraft.
+  - Upload footage of unchanged export contents as an "original content" video.
 - Users of this software may however upload derivative works of the exported aircraft file. These include, but are not limited to:
   - Aircraft and other machines
   - Artwork / Graphics
@@ -54,7 +57,3 @@ The output XML file is created in the desktop folder. At the time of writing, th
   - Videos and similar media
   - Other content where the generated music is not the most significant feature of the work.
 - The terms listed in this section may be changed without notice.
-
-- - -
-
-Last Updated: 2021 May 24
